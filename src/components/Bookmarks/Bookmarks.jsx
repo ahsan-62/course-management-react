@@ -7,7 +7,7 @@ const Bookmarks = ({purchase,totalCredit}) => {
     const totalPrice = purchase.reduce((total, course) => total + course.price, 0);
     console.log(totalPrice);
     return (
-        <div className="w-1/3">
+        <div className=" w-full mx-2 md:w-1/3 order-1 md:order-2 ">
 
             <div className='bg-[#412929d9] rounded-lg'>
             <h1 className='text-2xl font-bold text-[#f6f229] text-center p-3'>Credit hour remaining :{remainingCreditHour} hr </h1>

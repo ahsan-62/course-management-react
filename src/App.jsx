@@ -29,7 +29,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className='container mx-auto mt-5 flex gap-3'>
+      <main className='container mx-auto mt-5 flex flex-col  md:flex-row  gap-3'>
         <Courses handlePurchase={handlePurchase} />
         <Bookmarks purchase={purchase} totalCredit={totalCredit} />
       </main>

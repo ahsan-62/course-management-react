@@ -12,7 +12,7 @@ const Courses = ({handlePurchase}) => {
     })
 
     return (
-        <div  className="w-2/3">
+        <div  className=" w-full mx-3 md:w-2/3 order-2 ">
             <h1 className="text-3xl font-bold mb-5">Courses:{courses.length}</h1>
            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5  ">
            {

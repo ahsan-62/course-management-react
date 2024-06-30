@@ -4,18 +4,18 @@ const Course = ({course,handlePurchase}) => {
 
     const {title, description, cover, price, credit_hour} = course;
     return (
-        <div>
+        <div >
       
 
-            <div className="card card-compact bg-[#3a3939]  shadow-xl ">
+            <div className="card card-compact bg-[#ffffff]  shadow-xl  ">
             <figure>
                 <img
                 src={cover}
                 alt="Shoes" />
             </figure>
             <div className="card-body">
-                <h2 className="card-title ">{title}</h2>
-                <p>{description}</p>
+                <h2 className="card-title text-black ">{title}</h2>
+                <p className="text-black">{description}</p>
                 <div className="flex justify-between ">
                     <p className="text-lg font-bold text-orange-600">Price: {price} Tk</p>
                     <p className="text-lg font-medium text-orange-600">Credit Hour: {credit_hour}</p>
