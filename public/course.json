@@ -1,0 +1,75 @@
+[
+    {
+      "id": "C001",
+      "cover": "https://i.postimg.cc/JhT1bHx4/Rectangle-2-2.png",
+      "title": "Introduction to Data Science",
+      "description": "Learn the basics of data science, including statistical analysis and machine learning.",
+      "price": 199.99,
+      "credit_hour": 3
+    },
+    {
+      "id": "C002",
+      "cover": "https://i.postimg.cc/FR8N6twM/Rectangle-2-1.png",
+      "title": "Advanced Python Programming",
+      "description": "Master advanced Python programming concepts and techniques.",
+      "price": 249.99,
+      "credit_hour": 4
+    },
+    {
+      "id": "C003",
+      "cover": "https://i.postimg.cc/j2ft0gbL/Rectangle-2-3.png",
+      "title": "Web Development Bootcamp",
+      "description": "A comprehensive course on full-stack web development.",
+      "price": 299.99,
+      "credit_hour": 5
+    },
+    {
+      "id": "C004",
+      "cover": "https://i.postimg.cc/L4gH1X12/Rectangle-2-4.png",
+      "title": "Introduction to Artificial Intelligence",
+      "description": "Explore the fundamentals of artificial intelligence and its applications.",
+      "price": 219.99,
+      "credit_hour": 3
+    },
+    {
+      "id": "C005",
+      "cover": "https://i.postimg.cc/4NzsWSP0/Rectangle-2.png",
+      "title": "Cybersecurity Essentials",
+      "description": "Understand the principles and practices of cybersecurity.",
+      "price": 179.99,
+      "credit_hour": 2
+    },
+    {
+      "id": "C006",
+      "cover": "https://i.postimg.cc/mgjRs10N/Rectangle-2-6.png",
+      "title": "Digital Marketing Strategy",
+      "description": "Learn how to create and implement effective digital marketing strategies.",
+      "price": 199.99,
+      "credit_hour": 3
+    },
+    {
+      "id": "C007",
+      "cover": "https://i.postimg.cc/g0BWwFcx/Rectangle-3.png",
+      "title": "Financial Analysis for Managers",
+      "description": "Gain the skills to analyze and interpret financial data for better decision-making.",
+      "price": 229.99,
+      "credit_hour": 3
+    },
+    {
+      "id": "C008",
+      "cover": "https://i.postimg.cc/RZ49yLbZ/Rectangle-2-5.png",
+      "title": "Project Management Professional (PMP) Certification",
+      "description": "Prepare for the PMP certification with this comprehensive course.",
+      "price": 349.99,
+      "credit_hour": 5
+    },
+    {
+      "id": "C009",
+      "cover": "https://i.postimg.cc/hjkRrLdg/Rectangle-3-1.png",
+      "title": "Graphic Design Fundamentals",
+      "description": "Learn the essential principles and tools of graphic design.",
+      "price": 149.99,
+      "credit_hour": 2
+    }
+  ]
+  
